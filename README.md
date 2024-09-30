@@ -6,7 +6,7 @@
 - 한번 맡은바 대해서는 책임감 있게 완수합니다.
 
 ## 🛠️TECH STACK
-***
+<hr>
 <p align="center">
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
@@ -29,7 +29,7 @@
 </p>
 
 ## ✅STATUS
-***
+<hr>
 <p align="center">
   <a href="https://solved.ac/profile/jshstar">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jshstar" alt="Solved.ac 프로필" />
