@@ -1,4 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=%20😁%20Wellcome%20to%20JSH%20GitHub&fontSize=60)
+
+
+
 안녕하세요. 함께 고민하고 성장하는 개발자 정성호입니다.
 - Java, Spring 개발을 시작으로 도커, Redis, 캐싱, 성능 테스트까지 사용하며 백엔드 스펙트럼을 넓혔습니다.
 - 배운기술을 팀 프로젝트에 적용하고, 성장을 목적으로 블로그에 기록하여 배움의 복습을 더했습니다.
@@ -41,4 +44,3 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jshstar&exclude_repo=project-todo" alt="Top Langs" />
   </a>
 </p>
-
